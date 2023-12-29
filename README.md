@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naman srivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman srivastav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naman-srivastav-20a134202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman srivastav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sri_naman_16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sri_naman_16" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sri_vastav1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sri_vastav1021" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/naman-16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naman-16" height="30" width="40" /></a>
