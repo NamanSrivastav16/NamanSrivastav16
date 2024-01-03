@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **sri.vastav1021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eEabkg7TvFgcEXj7mVMmh0-vgYZCQwQA/view](https://drive.google.com/file/d/1eEabkg7TvFgcEXj7mVMmh0-vgYZCQwQA/view)
-
 - ⚡ Fun fact **Solve puzzles in coffee breaks.**
 
 <h3 align="left">Connect with me:</h3>
