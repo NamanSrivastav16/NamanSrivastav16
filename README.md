@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NamanSrivastav16&label=Profile%20views&color=0e75b6&style=flat-square" alt="NamanSrivastav16" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Competitive Programming**
 
